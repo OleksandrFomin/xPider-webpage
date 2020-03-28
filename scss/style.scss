@@ -643,7 +643,7 @@ body {
   .section-inner {
     @include flex-center;
     justify-content: space-between;
-    margin: $mb-lg 0;
+    margin: $mb-lg auto;
   }
   &__oval {
     position: absolute;

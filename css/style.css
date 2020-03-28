@@ -709,7 +709,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 120px 0; }
+    margin: 120px auto; }
   .section-unique-blocks__oval {
     position: absolute;
     top: -400px;
